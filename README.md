@@ -1,3 +1,3 @@
 # GO BASICS
 
-### Primeiros programas em GO desenvolvido juntamente a Formação em GO da DIO.
+### Primeiros programas em Go desenvolvido juntamente a Formação em Go da DIO.
